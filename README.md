@@ -4,7 +4,7 @@
 👉 (https://g3rrie.github.io/Portfolio/) 
 
 ## Features
-- **Deep-space theme** with an animated JavaScript starfield canvas
+- **Deep-space theme** with an animated JavaScript starfield canvas ( I love space :D )
 - **Dark / light mode toggle** (dark by default)
 - **Typing animation** on the hero tagline
 - **Smooth scroll** navigation with active-section highlighting
