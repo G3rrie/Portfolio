@@ -1,7 +1,5 @@
 # Gerhardt Roets — Portfolio Website
 
-A personal Virtual CV / portfolio website built for the **Profile Development (Deliverable 1)** assignment at North-West University. It complements my PDF CV with an interactive, space-themed one-page showcase of my projects, skills, and background.
-
 ## Live Site
 👉 https://G3rrie.github.io/  _(update this link once GitHub Pages is enabled)_
 
