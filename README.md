@@ -1,7 +1,7 @@
 # Gerhardt Roets — Portfolio Website
 
 ## Live Site
-👉 https://G3rrie.github.io/  _(update this link once GitHub Pages is enabled)_
+👉 (https://g3rrie.github.io/Portfolio/) 
 
 ## Features
 - **Deep-space theme** with an animated JavaScript starfield canvas
