@@ -31,20 +31,9 @@
 2. **Stoep & Stay Properties Database System** — 19-table normalised Oracle SQL schema (Group, CMPG 311)
 3. **Healthcare Diagnostic Chatbot (AI)** — Python + First-Order Logic inference engine (Individual, CMPG 313)
 
-## Setup
-No build tools required. The entire site is a single self-contained file.
-
-```bash
-# Clone the repo, then simply open in a browser:
-open index.html
-```
-
-## Deploying to GitHub Pages
-1. Push `index.html` (and this `README.md`) to your repository.
-2. Go to **Settings → Pages → Source → main branch → / (root)**.
-3. Your site goes live at `https://G3rrie.github.io/<repo-name>/`.
-
-> `index.html` is fully self-contained — the profile photo, CV PDF, and all styles/scripts are embedded, so no additional asset folder is needed.
+## Hosting
+This site is hosted on GitHub Pages and is live at:
+https://g3rrie.github.io/Portfolio/
 
 ## Contact
 - **Email:** gerrie.roets88@gmail.com
@@ -52,5 +41,4 @@ open index.html
 - **LinkedIn:** https://www.linkedin.com/in/gerhardtroets
 - **GitHub:** https://github.com/G3rrie
 
----
-© 2026 Gerhardt Roets · BSc Information Technology · North-West University
+2026 Gerhardt Roets · BSc Information Technology · North-West University
